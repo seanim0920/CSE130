@@ -1,0 +1,1 @@
+Simply compile dog.c and run it. It accepts any number of arguments. If a - (dash) is given, it will read from standard input. If files are given, it will read them in reverse order.
